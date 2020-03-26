@@ -1,0 +1,821 @@
+{
+    "piano_C3": {
+        "note_str": "piano_C3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C3"
+    },
+    "piano_C#3": {
+        "note_str": "piano_C#3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C#3"
+    },
+    "piano_D3": {
+        "note_str": "piano_D3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_D3"
+    },
+    "piano_D#3": {
+        "note_str": "piano_D#3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_D#3"
+    },
+    "piano_E3": {
+        "note_str": "piano_E3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_E3"
+    },
+    "piano_F3": {
+        "note_str": "piano_F3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_F3"
+    },
+    "piano_F#3": {
+        "note_str": "piano_F#3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_F#3"
+    },
+    "piano_G3": {
+        "note_str": "piano_G3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_G3"
+    },
+    "piano_G#3": {
+        "note_str": "piano_G#3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_G#3"
+    },
+    "piano_A3": {
+        "note_str": "piano_A3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_A3"
+    },
+    "piano_A#3": {
+        "note_str": "piano_A#3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_A#3"
+    },
+    "piano_B3": {
+        "note_str": "piano_B3",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_B3"
+    },
+    "piano_C4": {
+        "note_str": "piano_C4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C4"
+    },
+    "piano_C#4": {
+        "note_str": "piano_C#4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C#4"
+    },
+    "piano_D4": {
+        "note_str": "piano_D4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_D4"
+    },
+    "piano_D#4": {
+        "note_str": "piano_D#4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_D#4"
+    },
+    "piano_E4": {
+        "note_str": "piano_E4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_E4"
+    },
+    "piano_F4": {
+        "note_str": "piano_F4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_F4"
+    },
+    "piano_F#4": {
+        "note_str": "piano_F#4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_F#4"
+    },
+    "piano_G4": {
+        "note_str": "piano_G4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_G4"
+    },
+    "piano_G#4": {
+        "note_str": "piano_G#4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_G#4"
+    },
+    "piano_A4": {
+        "note_str": "piano_A4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_A4"
+    },
+    "piano_A#4": {
+        "note_str": "piano_A#4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_A#4"
+    },
+    "piano_B4": {
+        "note_str": "piano_B4",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_B4"
+    },
+    "piano_C5": {
+        "note_str": "piano_C5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C5"
+    },
+    "piano_C#5": {
+        "note_str": "piano_C#5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C#5"
+    },
+    "piano_D5": {
+        "note_str": "piano_D5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_D5"
+    },
+    "piano_D#5": {
+        "note_str": "piano_D#5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_D#5"
+    },
+    "piano_E5": {
+        "note_str": "piano_E5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_E5"
+    },
+    "piano_F5": {
+        "note_str": "piano_F5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_F5"
+    },
+    "piano_F#5": {
+        "note_str": "piano_F#5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_F#5"
+    },
+    "piano_G5": {
+        "note_str": "piano_G5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_G5"
+    },
+    "piano_G#5": {
+        "note_str": "piano_G#5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_G#5"
+    },
+    "piano_A5": {
+        "note_str": "piano_A5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_A5"
+    },
+    "piano_A#5": {
+        "note_str": "piano_A#5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_A#5"
+    },
+    "piano_B5": {
+        "note_str": "piano_B5",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_B5"
+    },
+    "piano_C6": {
+        "note_str": "piano_C6",
+        "sample_rate": 16000,
+        "instrument_source": 0,
+        "instrument_family_str": "keyboard",
+        "instrument_family": 4,
+        "instrument_source_str": "acoustic",
+        "instrument_str": "keyboard_acoustic_piano_C6"
+    },
+    "violin_bowed_A#3": {
+      "note_str": "string_acoustic_violin_bowed_A#3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_A#3"
+    },
+    "violin_bowed_A#4": {
+      "note_str": "string_acoustic_violin_bowed_A#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_A#4"
+    },
+    "violin_bowed_A3": {
+      "note_str": "string_acoustic_violin_bowed_A3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_A3"
+    },
+    "violin_bowed_A4": {
+      "note_str": "string_acoustic_violin_bowed_A4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_A4"
+    },
+    "violin_bowed_A5": {
+      "note_str": "string_acoustic_violin_bowed_A5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_A5"
+    },
+    "violin_bowed_B3": {
+      "note_str": "string_acoustic_violin_bowed_B3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_B3"
+    },
+    "violin_bowed_B4": {
+      "note_str": "string_acoustic_violin_bowed_B4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_B4"
+    },
+    "violin_bowed_C#4": {
+      "note_str": "string_acoustic_violin_bowed_C#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_C#4"
+    },
+    "violin_bowed_C#5": {
+      "note_str": "string_acoustic_violin_bowed_C#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_C#5"
+    },
+    "violin_bowed_C4": {
+      "note_str": "string_acoustic_violin_bowed_C4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_C4"
+    },
+    "violin_bowed_C5": {
+      "note_str": "string_acoustic_violin_bowed_C5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_C5"
+    },
+    "violin_bowed_D#4": {
+      "note_str": "string_acoustic_violin_bowed_D#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_D#4"
+    },
+    "violin_bowed_D#5": {
+      "note_str": "string_acoustic_violin_bowed_D#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_D#5"
+    },
+    "violin_bowed_D4": {
+      "note_str": "string_acoustic_violin_bowed_D4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_D4"
+    },
+    "violin_bowed_D5": {
+      "note_str": "string_acoustic_violin_bowed_D5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_D5"
+    },
+    "violin_bowed_E4": {
+      "note_str": "string_acoustic_violin_bowed_E4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_E4"
+    },
+    "violin_bowed_E5": {
+      "note_str": "string_acoustic_violin_bowed_E5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_E5"
+    },
+    "violin_bowed_F#4": {
+      "note_str": "string_acoustic_violin_bowed_F#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_F#4"
+    },
+    "violin_bowed_F#5": {
+      "note_str": "string_acoustic_violin_bowed_F#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_F#5"
+    },
+    "violin_bowed_F4": {
+      "note_str": "string_acoustic_violin_bowed_F4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_F4"
+    },
+    "violin_bowed_F5": {
+      "note_str": "string_acoustic_violin_bowed_F5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_F5"
+    },
+    "violin_bowed_G#3": {
+      "note_str": "string_acoustic_violin_bowed_G#3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_G#3"
+    },
+    "violin_bowed_G#4": {
+      "note_str": "string_acoustic_violin_bowed_G#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_G#4"
+    },
+    "violin_bowed_G#5": {
+      "note_str": "string_acoustic_violin_bowed_G#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_G#5"
+    },
+    "violin_bowed_G3": {
+      "note_str": "string_acoustic_violin_bowed_G3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_G3"
+    },
+    "violin_bowed_G4": {
+      "note_str": "string_acoustic_violin_bowed_G4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_G4"
+    },
+    "violin_bowed_G5": {
+      "note_str": "string_acoustic_violin_bowed_G5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_bowed_G5"
+    },
+    "violin_short_A#3": {
+      "note_str": "string_acoustic_violin_short_A#3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_A#3"
+    },
+    "violin_short_A#4": {
+      "note_str": "string_acoustic_violin_short_A#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_A#4"
+    },
+    "violin_short_A3": {
+      "note_str": "string_acoustic_violin_short_A3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_A3"
+    },
+    "violin_short_A4": {
+      "note_str": "string_acoustic_violin_short_A4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_A4"
+    },
+    "violin_short_A5": {
+      "note_str": "string_acoustic_violin_short_A5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_A5"
+    },
+    "violin_short_B3": {
+      "note_str": "string_acoustic_violin_short_B3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_B3"
+    },
+    "violin_short_B4": {
+      "note_str": "string_acoustic_violin_short_B4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_B4"
+    },
+    "violin_short_C#4": {
+      "note_str": "string_acoustic_violin_short_C#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_C#4"
+    },
+    "violin_short_C#5": {
+      "note_str": "string_acoustic_violin_short_C#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_C#5"
+    },
+    "violin_short_C4": {
+      "note_str": "string_acoustic_violin_short_C4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_C4"
+    },
+    "violin_short_C5": {
+      "note_str": "string_acoustic_violin_short_C5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_C5"
+    },
+    "violin_short_D#4": {
+      "note_str": "string_acoustic_violin_short_D#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_D#4"
+    },
+    "violin_short_D#5": {
+      "note_str": "string_acoustic_violin_short_D#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_D#5"
+    },
+    "violin_short_D4": {
+      "note_str": "string_acoustic_violin_short_D4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_D4"
+    },
+    "violin_short_D5": {
+      "note_str": "string_acoustic_violin_short_D5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_D5"
+    },
+    "violin_short_E4": {
+      "note_str": "string_acoustic_violin_short_E4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_E4"
+    },
+    "violin_short_E5": {
+      "note_str": "string_acoustic_violin_short_E5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_E5"
+    },
+    "violin_short_F#4": {
+      "note_str": "string_acoustic_violin_short_F#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_F#4"
+    },
+    "violin_short_F#5": {
+      "note_str": "string_acoustic_violin_short_F#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_F#5"
+    },
+    "violin_short_F4": {
+      "note_str": "string_acoustic_violin_short_F4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_F4"
+    },
+    "violin_short_F5": {
+      "note_str": "string_acoustic_violin_short_F5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_F5"
+    },
+    "violin_short_G#3": {
+      "note_str": "string_acoustic_violin_short_G#3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_G#3"
+    },
+    "violin_short_G#4": {
+      "note_str": "string_acoustic_violin_short_G#4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_G#4"
+    },
+    "violin_short_G#5": {
+      "note_str": "string_acoustic_violin_short_G#5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_G#5"
+    },
+    "violin_short_G3": {
+      "note_str": "string_acoustic_violin_short_G3",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_G3"
+    },
+    "violin_short_G4": {
+      "note_str": "string_acoustic_violin_short_G4",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_G4"
+    },
+    "violin_short_G5": {
+      "note_str": "string_acoustic_violin_short_G5",
+      "sample_rate": 16000,
+      "instrument_source": 0,
+      "instrument_family_str": "string",
+      "instrument_family": 8,
+      "instrument_source_str": "acoustic",
+      "instrument_str": "string_acoustic_violin_short_G5"
+    }
+}
