@@ -3,7 +3,7 @@
 
 This is a project for ENSE 496AD Machine Learning. It classifies keyboard vs strings from the NSynth Dataset using various classifiers to compare different strengths of the classifiers. 
 ## Analysis:
-Analysis of the process of the project and the results can be found in the [Project Proposal](https://github.com/AveryCameronUofR/instrument-classification/blob/master/ENSE%20496AD%20Project%20Proposal.pdf), the [Progress Report](https://github.com/AveryCameronUofR/instrument-classification/blob/master/ENSE%20496AD%20Progress%20Report.pdf), and the [Final Report](https://github.com/AveryCameronUofR/instrument-classification/blob/master/ENSE%20496AD%20Final%20Report.pdf). Results and analysis of practices and rationale for feature extraction and classification used are included.
+Analysis of the process of the project and the results can be found in the [Project Proposal](https://github.com/AveryCameronUofR/instrument-classification/blob/master/Documentation/ENSE%20496AD%20Project%20Proposal.pdf), the [Progress Report](https://github.com/AveryCameronUofR/instrument-classification/blob/master/Documentation/ENSE%20496AD%20Progress%20Report.pdf), and the [Final Report](https://github.com/AveryCameronUofR/instrument-classification/blob/master/Documentation/ENSE%20496AD%20Final%20Report.pdf). Results and analysis of practices and rationale for feature extraction and classification used are included.
 
 ## How to use:
 The Dataset folder contains the extracted features from the dataset for classification already. 
